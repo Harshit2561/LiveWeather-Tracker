@@ -2,7 +2,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'port': '5432',
     'user': 'postgres',
-    'password': '2561',
+    'password': 'your_password_here',
     'dbname': 'weatherdb'
 }
 

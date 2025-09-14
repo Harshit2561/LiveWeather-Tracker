@@ -90,6 +90,6 @@ SELECT * FROM weather_data LIMIT 10;
 
 # 🧑‍💻 Author
 
-Kavin Kishore   
-B.Tech Student, DTU     
+Harshit Singh   
+B.Tech (COE) Student, DTU     
 Built as a real-time data engineering mini project.
