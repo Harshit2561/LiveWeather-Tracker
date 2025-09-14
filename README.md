@@ -1,4 +1,4 @@
-# 🌦️ Real-Time Weather Data Collector
+# 🌦️ LiveWeather Tracker
 
 A Python-based ETL pipeline that fetches real-time weather data from [Open-Meteo](https://open-meteo.com/) (no API key required) for multiple cities, transforms the data using Pandas, and stores it into a PostgreSQL database. You can later perform analysis on historical weather patterns such as average temperatures, wind speeds, etc.
 
